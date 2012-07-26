@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MagicSoundViewController : UIViewController
+@interface MagicSoundViewController : UIViewController{
+    
+}
 
 @end
